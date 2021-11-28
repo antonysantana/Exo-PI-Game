@@ -16,10 +16,10 @@ public class soundTriggers : MonoBehaviour
  
     private void OnTriggerEnter(Collider other)
     {
-        Audio.Play("Faixa" + Audio.numFaixaAudio);
+        Audio.Play(self.name);
         self.SetActive(false);
         //m_collider.enabled = false;
-        Audio.numFaixaAudio++;
+        //Audio.numFaixaAudio++;
         
             
     }
