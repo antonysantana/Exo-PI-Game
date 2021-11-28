@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Enterprise LTSC 2019; OS build 17763.2300; Version 1809; 64bit' Language: 'pt' Physical Memory: 16226 MB
+OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'pt' Physical Memory: 8115 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,147 +11,31 @@ C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/JP/Documents/Unity Projects/Exo-PI-Game
+C:/Users/Infor/Documents/Exo-PI-Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54696
-Successfully changed project path to: D:/JP/Documents/Unity Projects/Exo-PI-Game
-D:/JP/Documents/Unity Projects/Exo-PI-Game
+62430
+Successfully changed project path to: C:/Users/Infor/Documents/Exo-PI-Game
+C:/Users/Infor/Documents/Exo-PI-Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 107.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 461.26 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.3f1 (4bef613afd59)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/JP/Documents/Unity Projects/Exo-PI-Game/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Infor/Documents/Exo-PI-Game/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
     Vendor:   NVIDIA
-    VRAM:     4018 MB
-    Driver:   30.0.14.7212
+    VRAM:     2007 MB
+    Driver:   30.0.14.7168
 Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
 Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
 Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001356 seconds.
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 109.25 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.153 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.003532 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.553 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3151 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 219.3 MB.
-System memory in use after: 219.5 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3645.
-Total: 2.081200 ms (FindLiveObjects: 0.231800 ms CreateObjectMapping: 0.136900 ms MarkObjects: 1.607800 ms  DeleteObjects: 0.104200 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Field - Complete Main Menu (Lite)/Animations/Buttons/Main List Button.controller
-  artifactKey: Guid(089b7dffb966225439467a2087b72ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Field - Complete Main Menu (Lite)/Animations/Buttons/Main List Button.controller using Guid(089b7dffb966225439467a2087b72ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efca1703ee6682caee122757961ded19') in 0.028418 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 26.613343 seconds.
-  path: Assets/Field - Complete Main Menu (Lite)/Animations/Buttons/Button Enter.anim
-  artifactKey: Guid(875f1b164743fd447a9a89a981e83338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Field - Complete Main Menu (Lite)/Animations/Buttons/Button Enter.anim using Guid(875f1b164743fd447a9a89a981e83338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae68e6d82a6c0721d95d9920e93b19d0') in 0.007058 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004793 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.487 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3126 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 217.3 MB.
-System memory in use after: 217.5 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3648.
-Total: 2.582900 ms (FindLiveObjects: 0.280400 ms CreateObjectMapping: 0.189500 ms MarkObjects: 2.028800 ms  DeleteObjects: 0.083200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003342 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.361 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3126 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 217.4 MB.
-System memory in use after: 217.6 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3651.
-Total: 4.410100 ms (FindLiveObjects: 0.472400 ms CreateObjectMapping: 0.369300 ms MarkObjects: 3.434400 ms  DeleteObjects: 0.132200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 193.916423 seconds.
-  path: Assets/_Sounds/beep 02.wav
-  artifactKey: Guid(a49b4c156a4c3424583004c372a66396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Sounds/beep 02.wav using Guid(a49b4c156a4c3424583004c372a66396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32883be1c3ae80a5ed98620964362b04') in 0.106266 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003274 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.370 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3126 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 221.1 MB.
-System memory in use after: 221.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3663.
-Total: 2.249700 ms (FindLiveObjects: 0.242100 ms CreateObjectMapping: 0.142800 ms MarkObjects: 1.791600 ms  DeleteObjects: 0.072000 ms)
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
